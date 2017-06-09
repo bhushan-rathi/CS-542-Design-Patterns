@@ -3,3 +3,4 @@
 "# CS-575-Design-and-Analysis-of-computer-Algorithms" 
 "# CS-571-Programming-Languages" 
 "# CS-535-Data-Mining" 
+"# CS-520-Computer-Architecture-and-Organization" 
